@@ -1,1 +1,1 @@
-# Prediction-of-Ripeness-in-Mangoes
+# Mango Ripeness Prediction
